@@ -1,0 +1,10 @@
+print("1. Backslash: C:\\Users\\Sanket")
+print("2. Single quote: It\'s awesome")
+print("3. Double quote: He said: \"Hello\"")
+print("4. New line:\nLine 2")
+print("5. Tab:\tIndented text")
+print("6. Carriage return:\rOverwritten")
+print("7. Backspace: Test\b!")
+print("8. Bell sound: \a")  # may beep on some systems
+print("9. Hex (\\x41):", "\x41")
+print("10. Octal (\\101):", "\101")
