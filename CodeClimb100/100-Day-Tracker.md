@@ -1,6 +1,6 @@
 | Day | Topic | Sub-topic | Time Taken | ✅ Completed? | Notes |
 |-----|--------|-----------|--------------|----------------|-------|
-| 1 |  |  |  | ⬜ |  |
+| 1 | python | Basic |30 min  | ✅ |Uploaded  |
 | 2 |  |  |  | ⬜ |  |
 | 3 |  |  |  | ⬜ |  |
 | 4 |  |  |  | ⬜ |  |
