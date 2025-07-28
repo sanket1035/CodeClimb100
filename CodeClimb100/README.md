@@ -15,4 +15,4 @@ See `100-Day-Tracker.md` for daily updates and goals.
 
 ---
 
-🔗 [LinkedIn](https://linkedin.com/in/yourname) | 🐱 [GitHub](https://github.com/yourusername)
+🔗 [LinkedIn](https://linkedin.com/in/sanketchaudhari1035) | 🐱 [GitHub](https://github.com/sanket1035)
