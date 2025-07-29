@@ -1,7 +1,7 @@
 | Day | Topic | Sub-topic | Time Taken | ✅ Completed? |
 |-----|--------|-----------|--------------|----------------|
 | 1 | python | Basic | 30 min | ✅ |
-| 2 |  |  |  | ⬜ |
+| 2 | DSA | Revision in c++|  1 hour| ✅|
 | 3 |  |  |  | ⬜ |
 | 4 |  |  |  | ⬜ |
 | 5 |  |  |  | ⬜ |
