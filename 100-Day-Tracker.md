@@ -2,7 +2,7 @@
 |-----|--------|-----------|--------------|----------------|
 | 1 | python | Basic | 30 min | ✅ |
 | 2 | DSA | Revision in c++|  1 hour| ✅|
-| 3 |  |  |  | ⬜ |
+| 3 | Web development | Start Web dev Learn how Network Work| 1½ hour | ✅ |
 | 4 |  |  |  | ⬜ |
 | 5 |  |  |  | ⬜ |
 | 6 |  |  |  | ⬜ |
