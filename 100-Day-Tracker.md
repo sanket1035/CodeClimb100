@@ -3,11 +3,11 @@
 | 1 | python | Basic | 30 min | ✅ |
 | 2 | DSA | Revision in c++|  1 hour| ✅|
 | 3 | Web development | Start Web dev Learn how Network Work| 1½ hour | ✅ |
-| 4 |  |  |  | ⬜ |
+| 4 |  web development| Start HTML|  30 min | ✅ |
 | 5 |  |  |  | ⬜ |
 | 6 |  |  |  | ⬜ |
 | 7 |  |  |  | ⬜ |
-| 8 |  |  |  | ⬜ |
+| 8 |  |   |  | ⬜ |
 | 9 |  |  |  | ⬜ |
 | 10 |  |  |  | ⬜ |
 | 11 |  |  |  | ⬜ |
