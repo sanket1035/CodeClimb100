@@ -5,7 +5,7 @@
 | 3 | Web development | Start Web dev Learn how Network Work| 1½ hour | ✅ |
 | 4 |  web development| Start HTML|  30 min | ✅ |
 | 5 | Web development | Html |1 hour  | ✅ |
-| 6 | Web development | Html{text Formaters and Tags}  | 1½ hour | ✅ |
+| 6 | Web development | Html (Text Formaters and Tags)  | 1½ hour | ✅ |
 | 7 |  |  |  | ⬜ |
 | 8 |  |   |  | ⬜ |
 | 9 |  |  |  | ⬜ |
