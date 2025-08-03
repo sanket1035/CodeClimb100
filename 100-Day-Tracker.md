@@ -6,7 +6,7 @@
 | 4 |  web development| Start HTML|  30 min | ✅ |
 | 5 | Web development | Html |1 hour  | ✅ |
 | 6 | Web development | Html (Text Formaters and Tags)  | 1½ hour | ✅ |
-| 7 |  |  |  | ⬜ |
+| 7 | python | Cantrol flow, Function and recursion| 1 hour | ✅ |
 | 8 |  |   |  | ⬜ |
 | 9 |  |  |  | ⬜ |
 | 10 |  |  |  | ⬜ |
