@@ -7,7 +7,7 @@
 | 5 | Web development | Html |1 hour  | ✅ |
 | 6 | Web development | Html (Text Formaters and Tags)  | 1½ hour | ✅ |
 | 7 | python | Cantrol flow, Function and recursion| 1 hour | ✅ |
-| 8 |  |   |  | ⬜ |
+| 8 | GitHub and gssoc's|  Learn GitHub and how to contribute in open source|1½  | ✅ |
 | 9 |  |  |  | ⬜ |
 | 10 |  |  |  | ⬜ |
 | 11 |  |  |  | ⬜ |
