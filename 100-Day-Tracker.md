@@ -9,8 +9,8 @@
 | 7 | python | Cantrol flow, Function and recursion| 1 hour | ✅ |
 | 8 | GitHub and gssoc's|  Learn GitHub and how to contribute in open source|1½ hour | ✅ |
 | 9 | Dsa |Revision for array  | 1 hour | ✅ |
-| 10 |  |  |  | ⬜ |
-| 11 |  |  |  | ⬜ |
+| 10 | web development |Complete HTML | 1 hour | ✅ |
+| 11 | Web development | Complete assignment make a website using HTML and deploy it , Start CSS| 2 hour | ✅ |
 | 12 |  |  |  | ⬜ |
 | 13 |  |  |  | ⬜ |
 | 14 |  |  |  | ⬜ |
