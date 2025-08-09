@@ -11,7 +11,7 @@
 | 9 | Dsa |Revision for array  | 1 hour | ✅ |
 | 10 | web development |Complete HTML | 1 hour | ✅ |
 | 11 | Web development | Complete assignment make a website using HTML and deploy it , Start CSS| 2 hour | ✅ |
-| 12 |  |  |  | ⬜ |
+| 12 | Web development | Css Selectors | 30 min  | ✅ |
 | 13 |  |  |  | ⬜ |
 | 14 |  |  |  | ⬜ |
 | 15 |  |  |  | ⬜ |
