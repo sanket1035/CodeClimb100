@@ -12,7 +12,7 @@
 | 10 | web development |Complete HTML | 1 hour | ✅ |
 | 11 | Web development | Complete assignment make a website using HTML and deploy it , Start CSS| 2 hour | ✅ |
 | 12 | Web development | Css Selectors | 30 min  | ✅ |
-| 13 |  |  |  | ⬜ |
+| 13 |  Web development & Book read | Css Box model, colors,units,fonts&texts, Display, Postions and Read a book Atomic Habits about writer & why he write a book section| 4 hours | ✅ |
 | 14 |  |  |  | ⬜ |
 | 15 |  |  |  | ⬜ |
 | 16 |  |  |  | ⬜ |
